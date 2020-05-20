@@ -1,0 +1,38 @@
+/* smartphone version */
+@media screen and (max-width: 420px){
+ 
+ .row{
+     width: 100%;
+ }
+
+ #lezioni .row img, #steps .row img, #why .row img{
+     width: 80%;
+     height: auto;
+     padding: 10%;
+ }
+
+ #lezioni .row .left, #lezioni .row .right {
+     width: 90%;
+     display: block;
+     float: none;
+     margin: 10% auto;
+ }
+
+
+
+ #steps .row .left, #steps .row .central, #steps .row .right {
+    width: 90%;
+    display: block;
+    float: none;
+    margin: 10% auto;
+ }
+
+ #why .row .first, #why .row .second, #why .row .third{
+    width: 90%;
+    display: block;
+    float: none;
+    margin: 10% auto;
+ }
+
+ }
+
