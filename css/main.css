@@ -5,8 +5,9 @@
         width: 100%;
     }
    
-    #lezioni .row img, #steps .row img{
-        max-width: 70%;
+    #lezioni .row img{
+      height: 200px;
+      max-width: 100%;
     }
 
    
